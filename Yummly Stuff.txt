@@ -1,0 +1,6 @@
+HTTP Headers
+X-Yummly-App-ID: 264ae087
+X-Yummly-App-Key: a2655bc8d4851c508073eacce60c5f21
+
+URL Parameters
+_app_id=264ae087&_app_key=a2655bc8d4851c508073eacce60c5f21
